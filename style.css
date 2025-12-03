@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(#3E3F29 , #7D8D86 );
+text-align: center; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+text-shadow: 0px 0 2px black;}
+
+.pp{
+    border-radius: 50%;
+    border: 6px solid #3E3F29;
+    width: 200px;
+    margin:auto;
+}
+
+#h2{
+    margin-bottom: 20px;
+    background: #BCA88D;
+    margin: 20px 100px;
+}
+#h4{
+    margin-top: 20px;
+    background: #BCA88D;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+#gift1{
+    width: 480px;
+    height: 380px;
+    background-image: url("Gift GIF.gif");
+    background-size: cover;
+    border: 6 solid #3E3F29;
+    border-radius: 2px;
+}
+#gift1:hover{
+    background-image:url("محمد GIF by tzceer.gif");
+    height: 360;
+    width: 480;
+}
